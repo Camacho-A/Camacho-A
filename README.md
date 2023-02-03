@@ -10,6 +10,5 @@ I'm Angelica or Angie, a full-stack software engineer with experencing in managi
 - 📫 How to reach me: ... camachoangelicaa@gmail.com
 - 😄 Pronouns: ... she/her
 - ⚡ Fun fact: .. I have 4 dogs 🐶, I was an amateur boxer 🥊, and I am Puerto Rican 🇵🇷
--->
 
 [LinkedIn](https://www.linkedin.com/in/camachoangelicaa/)
