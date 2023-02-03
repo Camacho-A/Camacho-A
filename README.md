@@ -12,4 +12,4 @@ I'm Angie, a full-stack software engineer {}
 - ⚡ Fun fact: .. I have 4 dogs 🐶, I was an amateur boxer 🥊, and I am Puerto Rican 🇵🇷
 -->
 
-[LINKEDIN](https://www.linkedin.com/in/camachoangelicaa/)
+[LinkedIn](https://www.linkedin.com/in/camachoangelicaa/)
