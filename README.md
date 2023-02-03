@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Angie, a full-stack software engineer {}
+I'm Angelica or Angie, a full-stack software engineer with experencing in managing large groups of teams. 
 
 - 🔭 I’m currently working on ... Unit 4 at General Assembly
 - 🌱 I’m currently learning ... Python
